@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+---
+
+Fun fact: If you're seeing this, that means I think you're dumb
+
 <!--
 **noperneee/noperneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
